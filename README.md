@@ -78,10 +78,11 @@ A detailed report documenting all tasks, reflections, and learnings.
 - Paint.net
 - Canva / Presentation tools
 - Word
-- GitHub
-- LinkedIn
-- Google Forms
-- Coding platforms (HackerRank / CodeChef / etc.)
+- [GitHub](https://github.com/ShivrajM15)
+- [LinkedIn](https://www.linkedin.com/in/shivraj-mulik-775b6b27a/)
+- [Google Forms](https://forms.gle/19D1sQscavLx15K16)
+- [HackerRank](https://www.hackerrank.com/dashboard)
+- [Kaggle](https://www.kaggle.com/shivrajmulik)
 
 ---
 
