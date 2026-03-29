@@ -43,7 +43,7 @@ Focus: Practical exposure to coding and collaboration tools.
 
 📁 Folder: `task-3-platforms/`
 
-🔗 Google Form Link: [(https://forms.gle/voQhHoCcohNmuSqr5)]
+🔗 Google Form Link: [Link](https://forms.gle/voQhHoCcohNmuSqr5)
 
 ---
 
@@ -91,4 +91,4 @@ This project helped me understand the importance of digital literacy in academic
 ---
 
 ## Repository Link
-🔗 <[GitHub Repo Link Here](https://github.com/ShivrajM15/digital-literacy-project/)>
+🔗 [GitHub Repo Link Here](https://github.com/ShivrajM15/digital-literacy-project/)
